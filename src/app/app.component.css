@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid gray;
+    padding: 5px;
+    border-radius: 25%;
+    text-align: center;
+    width: 75%;
+}
